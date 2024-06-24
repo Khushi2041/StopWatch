@@ -3,4 +3,4 @@ A fully responsive professional stopwatch using HTML, CSS, Jquey and Bootstrap. 
 
 <img width="944" alt="image" src="https://github.com/Khushi2041/StopWatch/assets/112477607/6e8c428c-62a3-484a-ac7f-8ed55b46f7d1">
 
-The site is live at- https://khushi2041.github.io/StopWatch/
+The site is live at- https://6679f0d5164aa449b9377f00--symphonious-bavarois-96d6f0.netlify.app/
